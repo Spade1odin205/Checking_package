@@ -1,0 +1,15 @@
+.vscode/
+data/
+model/
+
+*.pt
+
+# Cache
+__pycache__/
+*.log
+
+# Large files
+*.zip
+*.mp4
+*.avi
+*.mkv

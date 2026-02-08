@@ -1,0 +1,23 @@
+# list cam btl cuoi ki
+"rtsp://admin:KXILGD@192.168.1.152:554/ch1/main",
+"rtsp://admin:BWKUYM@192.168.1.144:554/ch1/main",
+"rtsp://admin:DVCLRQ@192.168.1.121:554/ch1/main",
+"rtsp://admin:CPSFLT@192.168.1.118:554/ch1/main",
+# list cam btl giua ki
+"rtsp://admin:IFPREC@192.168.1.114:554/ch1/main"
+"rtsp://admin:CPSFLT@192.168.1.118:554/ch1/main"()
+"rtsp://admin:DVCLRQ@192.168.1.121:554/ch1/main"()
+"rtsp://admin:DTAJVP@192.168.1.124:554/ch1/main"
+"rtsp://admin:NXKPHU@192.168.1.157:554/ch1/main"
+"rtsp://admin:HLTHKD@192.168.1.127:554/ch1/main"
+"rtsp://admin:NWKGIC@192.168.1.135:554/ch1/main"
+"rtsp://admin:WSLRQC@192.168.1.128:554/ch1/main"
+"rtsp://admin:UAQHDA@192.168.1.132:554/ch1/main"
+"rtsp://admin:NNFVAJ@192.168.1.137:554/ch1/main"
+"rtsp://admin:YDVFNP@192.168.1.133:554/ch1/main"
+"rtsp://admin:TIJEQB@192.168.1.134:554/ch1/main"
+"rtsp://admin:CYXJBA@192.168.1.138:554/ch1/main",
+"rtsp://admin:EIUSAY@192.168.1.143:554/ch1/main",
+"rtsp://admin:VZBRIC@192.168.1.146:554/ch1/main",
+"rtsp://admin:XLRPZQ@192.168.1.154:554/ch1/main",
+"rtsp://admin:YLXVJA@192.168.1.141:554/ch1/main",
