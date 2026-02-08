@@ -1,6 +1,6 @@
 # ================= CẤU HÌNH HỆ THỐNG =================
-MODEL_DETECT_PATH = r"D:\Code\Python\Project\checking_package\best_lk.pt"
-MODEL_SLOT_PATH   = r"D:\Code\Python\Project\checking_package\runs\obb\train_slot_obb_s2\weights\best.pt"
+MODEL_DETECT_PATH = r"model/model_object/run_component_v4_merged/weights/best.pt"
+MODEL_SLOT_PATH   = r"model/model_slot/obb/train_slot_obb_s2/weights/best.pt"
 
 RTSP_LINKS = [
     "rtsp://admin:CPSFLT@192.168.1.160:554/ch1/main", # CAM 1
