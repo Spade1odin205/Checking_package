@@ -91,7 +91,7 @@ Ví dụ (đang có sẵn):
 
 - Stage 1 (CAM1) yêu cầu 3 `Module_Phu`
 - Stage 2 (CAM2) yêu cầu 1 `Main_Board` + 1 `J-Link`
-- Stage 3 (CAM3) yêu cầu 3 loại dây (có logic override theo thứ tự trái→phải)
+- Stage 3 (CAM3) yêu cầu 3 loại dây `Cap_USB_Den` + `Day_Jumper` + `Cap_Ribbon`
 - Stage 4 (CAM4) yêu cầu `Tui_Linh_Kien` + `Cap_USB_Trang`
 
 ## 5) Chạy chương trình realtime
