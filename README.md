@@ -33,6 +33,13 @@ Thư viện chính:
 
 ## 3) Cài đặt
 
+### 3.0 Tải data & model
+
+- Data: https://drive.google.com/drive/folders/1Kg22JzU9NZkHe3BMPYofLNupHIUzuWKs?usp=sharing
+- Model: https://drive.google.com/drive/folders/1dDyMiexnMFKcoB2MqiepaD91JjPuShMv?usp=sharing
+- Demo: https://drive.google.com/file/d/1MfdgkJo-Vfs0O2PNOmXKR6D25-YclozJ/view?usp=sharing
+- Demo: https://drive.google.com/file/d/1nSeorgnYm5wsTptmXDloDabxBHIEcEGS/view?usp=sharing
+
 ### 3.1 Tạo môi trường (khuyến nghị)
 
 ```bash
@@ -225,6 +232,11 @@ Main packages:
 - `numpy`
 
 ## 3) Installation
+
+### 3.0 Download data & models
+
+- Data: https://drive.google.com/drive/folders/1Kg22JzU9NZkHe3BMPYofLNupHIUzuWKs?usp=sharing
+- Models: https://drive.google.com/drive/folders/1dDyMiexnMFKcoB2MqiepaD91JjPuShMv?usp=sharing
 
 ### 3.1 Create a virtual environment (recommended)
 
